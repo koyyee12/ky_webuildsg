@@ -1,0 +1,62 @@
+[
+    {
+        "id"        : "total-repos-2017",
+        "info"      : "open source repos updated in 2017",
+        "numbers"   : "330"
+    },
+    {
+        "id"        : "total-updates-2017",
+        "info"      : "updates made to repos in 2017",
+        "numbers"   : "3893"
+    },
+    {
+        "id"        : "total-events-2017",
+        "info"      : "open events held in 2017",
+        "numbers"   : "860"
+    },
+    {
+        "id"        : "total-groups-2017",
+        "info"      : "user groups held events in 2017",
+        "numbers"   : "226"
+    },
+    {
+        "id"        : "total-repos-2016",
+        "info"      : "open source repos updated in 2016",
+        "numbers"   : "242"
+    },
+    {
+        "id"        : "total-updates-2016",
+        "info"      : "updates made to repos in 2016",
+        "numbers"   : "3517"
+    },
+    {
+        "id"        : "total-events-2016",
+        "info"      : "open events held in 2016",
+        "numbers"   : "921"
+    },
+    {
+        "id"        : "total-groups-2016",
+        "info"      : "user groups held events in 2016",
+        "numbers"   : "193"
+    },
+    {
+        "id"        : "total-repos-2015",
+        "info"      : "open source repos updated in 2015",
+        "numbers"   : "129"
+    },
+    {
+        "id"        : "total-updates-2015",
+        "info"      : "updates made to repos in 2015",
+        "numbers"   : "975"
+    },
+    {
+        "id"        : "total-events-2015",
+        "info"      : "open events held in 2015",
+        "numbers"   : "803"
+    },
+    {
+        "id"        : "total-groups-2015",
+        "info"      : "user groups held events in 2015",
+        "numbers"   : "181"
+    }
+]
